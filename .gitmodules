@@ -1,0 +1,3 @@
+[submodule "flog"]
+	path = flog
+	url = git@github.com:DataDog/flog.git
